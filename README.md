@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m Silas Shaanika
 
-<!--
-**silasshaanika/silasshaanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student with an interest in software development, networking, and building practical projects.
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- Full-stack development fundamentals
+- Strengthening networking and system concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools & Technologies:
+- Java, JavaScript, Python, PHP, HTML, CSS
+- Git, GitHub
+- Figma (UI & wireframes)
+- VS Code
+
+📫 How to reach me:
+- GitHub: @silashaanika
+- Email: silasshaanika77@gmail.com
