@@ -15,3 +15,4 @@
 📫 How to reach me:
 - GitHub: @silashaanika
 - Email: silasshaanika77@gmail.com
+- LinkedIn: https://www.linkedin.com/in/silas-shaanika/
